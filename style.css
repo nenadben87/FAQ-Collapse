@@ -109,3 +109,17 @@ button a {
   }
 }
 
+@media(min-width: 1920px){
+  .faq-question h3 {
+    font-size: 1.7rem;
+  }
+
+  .faq-answer h4 {
+    font-size: 1.5rem;
+  }
+
+  .faq-answer p {
+    font-size: 1.7rem;
+  }
+}
+
